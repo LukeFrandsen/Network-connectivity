@@ -1,6 +1,6 @@
 import socket
 import threading
-
+#10.30.9.199
 nickname = input("Choose a nickname: ")
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
